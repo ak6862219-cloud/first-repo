@@ -1,4 +1,4 @@
-# first-repo
+#C PROGRAMMING
 this is my first repository 
 <br>
 Author Adarsh kushwaha
