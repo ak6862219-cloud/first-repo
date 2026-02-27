@@ -1,5 +1,4 @@
-#C PROGRAMMING
-this is my first repository 
+#C PROGRAMMING 
 <br>
 Author Adarsh kushwaha
 <br>
